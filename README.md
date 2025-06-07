@@ -1,7 +1,1 @@
-### Hi there, I'm Ayush 👋
-
-🚀 Java Developer | 💻 Student at XYZ College  
-🔭 Currently working on: Hotel Management System (Java)  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/...)  
-📊 GitHub Stats:  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![f9b88deeae101d6a8572063bb63c286e](https://github.com/user-attachments/assets/e790ff06-57a2-493e-85ee-d1e95a35472f)
