@@ -1,10 +1,11 @@
 ![f9b88deeae101d6a8572063bb63c286e](https://github.com/user-attachments/assets/e790ff06-57a2-493e-85ee-d1e95a35472f)
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">🚀 Curious Mind | 💡 Lifelong Learner | 🏫 ABES Engineering College</h3>
+<h3 align="center">🚀 Passionate Learner | 💡 Tech Enthusiast | 🎓 ABES Engineering College</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Exploring+Code,+One+Project+at+a+Time;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Building+projects+with+purpose+and+passion.;&center=true&width=600&height=45&color=0C7FDB&font=Fira+Code">
 </p>
+
 
 ---
 
